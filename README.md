@@ -40,11 +40,3 @@ pnpx convex dev
 <br/>
 <br/>
 
-## Step 2 - setup .env
-
-### 2.1 - convex - https://youtu.be/0OaDyjB9Ib8?t=4679
-
-### 2.2 - clerk - https://youtu.be/0OaDyjB9Ib8?t=4916
-
-### 2.3 - edge store - https://youtu.be/0OaDyjB9Ib8?t=22786
-
