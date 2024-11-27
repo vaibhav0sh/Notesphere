@@ -1,4 +1,4 @@
-# What inside? <br/> <sub> https://28-jotion-clone.vercel.app/ </sub>
+# What inside? <br/>
 
 ![work in progress](https://i.imgur.com/cW9GVNg.png)
 
