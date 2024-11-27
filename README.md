@@ -15,7 +15,7 @@
 ## or Step 1.1 - clone repository (variant 2)
 
 ```
-git clone https://github.com/nicitaacom/28_notion-clone
+git clone https://github.com/vaibhav0sh/Notesphere/
 ```
 
 ## Step 1.2 - install deps
